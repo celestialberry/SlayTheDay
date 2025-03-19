@@ -1,3 +1,5 @@
 # SlayTheDay
 
 ![SlayTheDay](https://github.com/user-attachments/assets/4f0934ad-626b-4283-9073-d057ccc38260)
+
+URL - https://slay-the-day.vercel.app/
